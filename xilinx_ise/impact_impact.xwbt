@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=D:\dev\xblast\lpcmodlite_pcb\Xilinx\MB_LPCMod\impact.xsl
+OUTFILE=D:\dev\xblast\lpcmodlite_pcb\Xilinx\MB_LPCMod\impact.xsl
+FAMILY=Single
+PART=Single
+WORKINGDIR=D:\dev\xblast\lpcmodlite_pcb\Xilinx\MB_LPCMod
+LICENSE=iMPACT
+USER_INFO=iMPACT

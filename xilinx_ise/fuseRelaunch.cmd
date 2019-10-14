@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/dev/perso/lpcmodlite_pcb/Xilinx/MB_LPCMod/LPCMod_tb_isim_beh.exe" -prj "C:/dev/perso/lpcmodlite_pcb/Xilinx/MB_LPCMod/LPCMod_tb_beh.prj" "work.LPCMod_tb" 
